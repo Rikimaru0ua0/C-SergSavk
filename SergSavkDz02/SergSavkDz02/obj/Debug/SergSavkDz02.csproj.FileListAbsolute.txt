@@ -1,0 +1,7 @@
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\bin\Debug\SergSavkDz02.exe.config
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\bin\Debug\SergSavkDz02.exe
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\bin\Debug\SergSavkDz02.pdb
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\obj\Debug\SergSavkDz02.csprojAssemblyReference.cache
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\obj\Debug\SergSavkDz02.csproj.CoreCompileInputs.cache
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\obj\Debug\SergSavkDz02.exe
+C:\Users\Serg\source\repos\SergSavkDz02\SergSavkDz02\obj\Debug\SergSavkDz02.pdb
