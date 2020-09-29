@@ -14,6 +14,8 @@ namespace SergSavkDz02
             Console.Clear();
             #endregion
 
+
+
             #region 02+03
             //Задание 2 (общий подсчет количества введенных чисел)
             //Задание 3 (отдельный подсчет суммы всех нечетных положительных чисел
@@ -171,7 +173,7 @@ namespace SergSavkDz02
             // Конец 7 а задачи
             #endregion
 
-            Console.WriteLine("Конец домашки, рекурсия это сложно ");
+            Console.WriteLine("Конец домашки, рекурсия это сложно!!! ");
             Console.ReadKey();
 
         }
